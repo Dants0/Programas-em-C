@@ -1,5 +1,5 @@
 # Programas-em-C
 
-1 - Programa utilizando alocação dinâmica de memória
+1 - Ponteiros
 
 2 - Sistema Funcional de Hotel
